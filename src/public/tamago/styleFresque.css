@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+
+table, td, tr{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td {
+    background-color: #1e1e1e;
+    width: 30px;
+    height: 30px;
+}
+
+.red{
+    background-color:red;
+}
+
+#statusDisplayer{
+    color:white;
+}
